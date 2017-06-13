@@ -4,9 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace FluentOperands
+namespace FluentOperands.Core
 {
-    public class Class1
-    {
-    }
+	internal class DoubleOperandContext : IOperandContext
+	{
+
+	}
 }
